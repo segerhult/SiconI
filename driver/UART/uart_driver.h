@@ -2,7 +2,7 @@
 #define __UART_H__
 
 #include <stdint.h>
-#include "inc/tm4c129encpdt.h"
+#include "inc/tm4c1294ncpdt.h"
 
 
 #define UART0_ENABLE 0x00000001
