@@ -1,5 +1,5 @@
 # SiconIN
-Simple Configuration Interface in Netwroking
+Simple Configuration Interface in Networking
 
 # Description
 This project is a part of making automation more easy to understand and create a parser for netconf used in the industry on many platforms.
